@@ -15,9 +15,9 @@
         "laravel/socialite": "^3.0@dev",
         "laravel/tinker": "^1.0",
         "nesbot/carbon": "1.32.0 as 1.25.0",
-        "tcg/voyager": "^1.1",
-        "toolkito/larasap": "dev-master",
-        "smskin/vkservice": "dev-master"
+        "smskin/vkservice": "dev-master",
+        "tcg/voyager": "1.x-dev",
+        "toolkito/larasap": "dev-master"
     },
     "require-dev": {
         "filp/whoops": "^2.0",

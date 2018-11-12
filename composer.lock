@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c295ddf70db1a61a2f3082258d3a3b48",
+    "content-hash": "6ccff93c37490800d6b2e17787b79ad5",
     "packages": [
         {
             "name": "andrey-helldar/vk",
@@ -4209,18 +4209,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/the-control-group/voyager.git",
-                "reference": "0d783414110874ee8e9c2cf7eb093ffd5d4c7178"
+                "reference": "1a8c885b1b3564dfa2d95afc08a826f7e703482b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/the-control-group/voyager/zipball/0d783414110874ee8e9c2cf7eb093ffd5d4c7178",
-                "reference": "0d783414110874ee8e9c2cf7eb093ffd5d4c7178",
+                "url": "https://api.github.com/repos/the-control-group/voyager/zipball/1a8c885b1b3564dfa2d95afc08a826f7e703482b",
+                "reference": "1a8c885b1b3564dfa2d95afc08a826f7e703482b",
                 "shasum": ""
             },
             "require": {
                 "arrilot/laravel-widgets": "^3.7",
                 "doctrine/dbal": "~2.5.0|~2.6.0|~2.7.0",
-                "illuminate/support": "~5.4.0|~5.5.0|~5.6.0",
+                "illuminate/support": "~5.4.0|~5.5.0|~5.6.0|~5.7.0",
                 "intervention/image": "^2.4",
                 "larapack/doctrine-support": "~0.1.4",
                 "larapack/voyager-hooks": "~1.0.5",
@@ -4268,7 +4268,7 @@
                 "laravel",
                 "panel"
             ],
-            "time": "2018-08-08T17:43:49+00:00"
+            "time": "2018-10-29T20:58:26+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -6132,8 +6132,9 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "laravel/socialite": 20,
-        "toolkito/larasap": 20,
-        "smskin/vkservice": 20
+        "smskin/vkservice": 20,
+        "tcg/voyager": 20,
+        "toolkito/larasap": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
